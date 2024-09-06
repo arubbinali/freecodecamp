@@ -28,7 +28,7 @@ Vocabulary
 16. For Loops > Loops over different collections of items
 17. Exponent Function > Raises a certain number to a specific power
 ------------
-Formulae
+Functions & Methods
 ------------
 1) print
 2) Assign variables
